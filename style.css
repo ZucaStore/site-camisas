@@ -30,7 +30,8 @@ header h1 {
 }
 
 .produto img {
-    width: 100%;
+    max-height: 250px;
+    object-fit: cover;
 }
 
 .produto h2 {
